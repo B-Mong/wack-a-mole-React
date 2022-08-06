@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+
+.titleScore{
+  text-align: center;
+
+}
+
+.mainDiv{
+  background-color: #1a53c4;
+  height: 100%;
+  width: 100%;
+}
+
+.moleHills{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-content: flex-start;
+}
